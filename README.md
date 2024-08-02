@@ -27,3 +27,7 @@ dataset_csv = "/content/drive/MyDrive/Face recognition/Dataset.csv"
 faces_images_path = "/content/drive/MyDrive/Face recognition/Faces/Faces"
 original_images_path = "/content/drive/MyDrive/Face recognition/Original Images/Original Images"
 ```
+# Future Scope 
+- Enhanced Accuracy
+- Multi-Face Recognition
+- Emotion Detection
