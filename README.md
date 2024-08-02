@@ -14,15 +14,16 @@ To run this project, follow these steps:
 ```bash
 git clone https://github.com/your-username/face-recognition.git
 ```
-Install the required Python packages:
-Copy code
+- Install the required Python packages:
+```bash
 pip install -r requirements.txt
-Mount Google Drive (if using Google Colab) and set up the paths:
-python
-Copy code
+```
+- Mount Google Drive and set up the paths:
+```bash
 from google.colab import drive
 drive.mount('/content/drive')
 
 dataset_csv = "/content/drive/MyDrive/Face recognition/Dataset.csv"
 faces_images_path = "/content/drive/MyDrive/Face recognition/Faces/Faces"
 original_images_path = "/content/drive/MyDrive/Face recognition/Original Images/Original Images"
+```
