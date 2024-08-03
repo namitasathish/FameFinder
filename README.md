@@ -14,7 +14,7 @@ To run this project, follow these steps:
 ```bash
 git clone https://github.com/your-username/face-recognition.git
 ```
-- Install the required Python packages:
+- **Install the required Python packages:**
 ```bash
 pip install -r requirements.txt
 ```
