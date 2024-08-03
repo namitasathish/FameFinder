@@ -10,7 +10,7 @@ The dataset is from Kaggle and consists of images stored in two directories:
 # Installation
 To run this project, follow these steps:
 
-- Clone the repository:
+- **Clone the repository:**
 ```bash
 git clone https://github.com/your-username/face-recognition.git
 ```
@@ -18,7 +18,7 @@ git clone https://github.com/your-username/face-recognition.git
 ```bash
 pip install -r requirements.txt
 ```
-- Mount Google Drive and set up the paths:
+- **Mount Google Drive and set up the paths:**
 ```bash
 from google.colab import drive
 drive.mount('/content/drive')
